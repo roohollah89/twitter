@@ -9,4 +9,7 @@
     .iconPosts {
         @apply w-9 h-9 p-2;
     }
+    .widgets {
+        @apply mt-4 text-gray-700 py-4 bg-gray-100 rounded-xl w-[90%] xl:w-[75%];
+    }
 }
